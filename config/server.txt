@@ -1,0 +1,10 @@
+serverCount=2
+serverList=42.96.141.177,42.96.141.177
+forwardPort=80
+
+ipBlackList=8.8.8.8#127.0.0.1,61.164.58.130
+
+[]headFilters=NOUSE
+
+#[]headFilters=If-None-Match
+#[]headFilters=If-Modified-Since

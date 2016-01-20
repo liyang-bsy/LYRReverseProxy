@@ -1,0 +1,11 @@
+[TREE]
+debug=0
+server=反向代理服务器
+serverIp=1.2.3.4
+
+$Singleton=init.txt
+
+$ServerConfig=server.txt
+
+MonitorServerUrl0=http://10.129.58.43/EBaoLifeMonitorGateway/action
+MonitorServerUrl1=http://42.96.164.183/EBaoLifeMonitorGateway/action
